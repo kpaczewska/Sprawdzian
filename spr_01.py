@@ -1,2 +1,3 @@
 # Zadanie1
-# listy, słowniki, tuple, zbiory
+# listy, słowniki, tuple, zbiory, stringi
+
